@@ -36,12 +36,81 @@ Grades are determined by performance on the six problem sets given during the te
 Course Calendar
 ---------------
 
-| SES # | TOPICS |
-| --- | --- |
-| 1-4 | Kinematics |
-| 5-13 | Macroscopic balances for linear and angular momentum |
-| 14-17 | The stress tensor |
-| 18-26 | Creeping flows and the lubrication approximation |
-| 27-35 | The boundary layer approximation |
-| 36-39 | Linear stability theory |
-| 40-45 | Presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-4
+{{< tdclose >}}
+{{< tdopen >}}
+Kinematics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-13
+{{< tdclose >}}
+{{< tdopen >}}
+Macroscopic balances for linear and angular momentum
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-17
+{{< tdclose >}}
+{{< tdopen >}}
+The stress tensor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18-26
+{{< tdclose >}}
+{{< tdopen >}}
+Creeping flows and the lubrication approximation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27-35
+{{< tdclose >}}
+{{< tdopen >}}
+The boundary layer approximation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36-39
+{{< tdclose >}}
+{{< tdopen >}}
+Linear stability theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+40-45
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
